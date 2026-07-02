@@ -5,7 +5,6 @@
 **Classification:** Internal Use / Educational
 
 ---
----
 
 ## 🛠️ Tools Used
 
@@ -29,8 +28,6 @@
 | **PDF Export** | Client-ready, read-only report distribution |
 
 > ⚠️ **Safety Note:** No suspicious links were opened directly at any point. All URL inspection was performed exclusively through sandboxed tools listed above.
-
----
 
 ---
 
@@ -106,7 +103,7 @@ Each sample was classified according to the observed phishing indicators.
 |------------|------------------------|--------------------|
 | 🔴 **PHISHING** | Multiple confirmed phishing indicators | Report immediately and avoid all interaction |
 | 🟠 **SUSPICIOUS** | One or more questionable characteristics | Verify with the organization before responding |
-| 🟢 **LEGITIMATE** | No phishing indicators detected | Safe to interact while maintaining normal vigilance |
+| 🟢 **SAFE** | No phishing indicators detected | Safe to interact while maintaining normal vigilance |
 
 The analysed email samples in this project were classified based on the identified indicators and overall risk level.
 
@@ -163,3 +160,25 @@ Based on the analysis, practical recommendations were prepared to help users rec
 - ✅ Verifying sender identity and inspecting URLs before clicking can prevent most phishing attacks.
 - ✅ Combining **user awareness**, **email authentication (SPF, DKIM, DMARC)**, and **Multi-Factor Authentication (MFA)** significantly reduces the risk of successful phishing attacks.
 - ✅ The strongest defence against phishing continues to be an informed and security-aware user.
+
+
+## 📚 Reference Datasets
+
+The following public repositories were referenced for sample validation and indicator frequency data. No content was reproduced — these are listed for transparency and further study only.
+
+| Repository | Description |
+|------------|-------------|
+| [rf-peixoto/phishing_pot](https://github.com/rf-peixoto/phishing_pot) | Real phishing samples collected in the wild |
+| [autinerd/phishing-mail-examples](https://github.com/autinerd/phishing-mail-examples) | Header and body samples for education |
+| [sadat1971/Phishing_Email](https://github.com/sadat1971/Phishing_Email) | Labelled phishing / non-phishing dataset |
+| [Phishing-Database/Phishing.Database](https://github.com/Phishing-Database/Phishing.Database) | Domain and URL phishing threat database |
+
+---
+
+## ⚠️ Disclaimer
+
+This project was produced for **educational purposes** as part of Cyber Security Task 2 (2026). All email samples are representative examples used for security awareness training. No real user data, live phishing infrastructure, or illegal activity was involved. This analysis does not constitute professional cybersecurity or legal advice.
+
+---
+
+*Prepared by Bura Samvivek — 3rd July 2026*
