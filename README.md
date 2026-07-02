@@ -1,4 +1,10 @@
 # FUTURE_CS_02
+### Cyber Security Task 2 — 2026
+**Prepared by:** Mohamed Abdikadir Ahmed  
+**Date:** June 5, 2026  
+**Classification:** Internal Use / Educational
+
+---
 
 ## 🔍 Analysis Approach
 
