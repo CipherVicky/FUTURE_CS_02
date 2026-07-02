@@ -1,4 +1,4 @@
-# FUTURE_CS_02
+# Phishing Detection & Awareness Report
 ### Cyber Security Task 2 — 2026
 **Prepared by:** Mohamed Abdikadir Ahmed  
 **Date:** June 5, 2026  
