@@ -1,8 +1,36 @@
 # Phishing Detection & Awareness Report
 ### Cyber Security Task 2 — 2026
-**Prepared by:** Mohamed Abdikadir Ahmed  
+**Prepared by:** Bura Samvivek 
 **Date:** June 5, 2026  
 **Classification:** Internal Use / Educational
+
+---
+---
+
+## 🛠️ Tools Used
+
+### Email Header Analysis
+| Tool | Purpose | Link |
+|------|---------|------|
+| **Google Apps Message Header Analyser** | Parse full email headers, inspect relay chains, and verify timestamps | [toolbox.googleapps.com](https://toolbox.googleapps.com/apps/messageheader/) |
+| **MXToolbox Email Headers** | Analyse SPF, DKIM, and DMARC authentication results | [mxtoolbox.com](https://mxtoolbox.com/EmailHeaders.aspx) |
+
+### URL & Domain Inspection
+| Tool | Purpose | Link |
+|------|---------|------|
+| **VirusTotal** | Check URL and file hash reputation against 70+ security engines | [virustotal.com](https://www.virustotal.com) |
+| **URLScan.io** | Safely detonate and screenshot suspicious URLs in an isolated sandbox | [urlscan.io](https://urlscan.io) |
+| **PhishTank** | Cross-reference URLs against a community-maintained phishing database | [phishtank.org](https://www.phishtank.org) |
+
+### Documentation
+| Tool | Purpose |
+|------|---------|
+| **MS Word / docx** | Report writing, formatting, and final deliverable production |
+| **PDF Export** | Client-ready, read-only report distribution |
+
+> ⚠️ **Safety Note:** No suspicious links were opened directly at any point. All URL inspection was performed exclusively through sandboxed tools listed above.
+
+---
 
 ---
 
