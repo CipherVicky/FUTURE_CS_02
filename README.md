@@ -1,4 +1,4 @@
-# Phishing Detection & Awareness Report
+# 🔐 Phishing Detection & Awareness Report
 ### Cyber Security Task 2 — 2026
 **Prepared by:** Bura Samvivek 
 **Date:** July 5, 2026  
